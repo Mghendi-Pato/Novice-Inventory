@@ -1,7 +1,5 @@
 import csv
 
-from main import *
-
 menu = {
     "1": "View list of items",
     "2": "Add an item to the list",
